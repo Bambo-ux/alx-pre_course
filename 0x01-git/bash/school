@@ -1,1 +1,1 @@
-#!/bin/bash echol "school"
+#!/bin/bash echo "school"
